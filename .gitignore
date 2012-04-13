@@ -1,0 +1,9 @@
+dist
+*.o
+*.hi
+*.chi
+*.chs.h
+*~
+*.exe
+cabal-dev
+.hsenv
