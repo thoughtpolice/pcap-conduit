@@ -34,7 +34,6 @@ See [AUTHORS.txt](https://raw.github.com/thoughtpolice/pcap-conduit/master/AUTHO
 
 BSD3. See [LICENSE.txt](https://raw.github.com/thoughtpolice/pcap-conduit/master/LICENSE.txt) for terms of copyright and redistribution.
 
-[CityHash]: http://cityhash.googlecode.com
 [main page]: http://thoughtpolice.github.com/pcap-conduit
 [issue tracker]: http://github.com/thoughtpolice/pcap-conduit/issues
 [gh]: http://github.com/thoughtpolice/pcap-conduit
