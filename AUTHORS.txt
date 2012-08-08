@@ -1,1 +1,3 @@
-Austin Seipp <mad.one@gmail.com>
+Author, target of blame:
+
+Austin Seipp <mad [dot] one [@at] gmail [dot] com>
