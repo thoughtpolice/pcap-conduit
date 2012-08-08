@@ -8,7 +8,7 @@ network interfaces into a conduit `Source`.
 
 # Installation
 
-It's just a `cabal install` away:
+It's just a `cabal install` away on [Hackage][]:
 
 ```
 $ cabal install pcap-conduit
@@ -38,3 +38,4 @@ BSD3. See [LICENSE.txt](https://raw.github.com/thoughtpolice/pcap-conduit/master
 [issue tracker]: http://github.com/thoughtpolice/pcap-conduit/issues
 [gh]: http://github.com/thoughtpolice/pcap-conduit
 [bb]: http://bitbucket.org/thoughtpolice/pcap-conduit
+[Hackage]: http://hackage.haskell.org/package/pcap-conduit
