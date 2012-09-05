@@ -10,7 +10,7 @@ network interfaces into a conduit `Source`.
 
 It's just a `cabal install` away on [Hackage][]:
 
-```
+```bash
 $ cabal install pcap-conduit
 ```
 
